@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f2fd9e3-cb82-4856-a2a8-3fb37339f889" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20Di7U1Sq480c1ddWkr5Yc7QgAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.switch">
+    <configuration name="Pixel_face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pixel_face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawingB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawingB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_pixel_det" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_pixel_det.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gesture_ctl" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gesture_ctl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="switch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/switch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SNAKE_VM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cli" />
+      <item itemvalue="Python.gesture_ctl" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.tester" />
+      <item itemvalue="Python.video" />
+      <item itemvalue="Python.Pixel_face" />
+      <item itemvalue="Python.drawingB" />
+      <item itemvalue="Python.face_pixel_det" />
+      <item itemvalue="Python.snake" />
+      <item itemvalue="Python.switch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.switch" />
+        <item itemvalue="Python.drawingB" />
+        <item itemvalue="Python.Pixel_face" />
+        <item itemvalue="Python.snake" />
+        <item itemvalue="Python.face_pixel_det" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f2fd9e3-cb82-4856-a2a8-3fb37339f889" name="Default Changelist" comment="" />
+      <created>1635585391675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635585391675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1670292568193">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="303" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.942@0.25.1680.942" timestamp="1670292568193" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom" timestamp="1677689209409">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1387" height="552" key="GridCell.Tab.0.bottom/-1024.25.1024.688/0.25.1680.1025/1680.25.1366.743@0.25.1680.1025" timestamp="1669952010820" />
+    <state width="1387" height="552" key="GridCell.Tab.0.bottom/-1024.25.1024.743/0.25.1680.942/-2390.25.1366.743@0.25.1680.942" timestamp="1669952270210" />
+    <state width="1387" height="552" key="GridCell.Tab.0.bottom/-1024.25.1024.743/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669951740838" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1680.942/-3840.25.1920.1055@0.25.1680.942" timestamp="1669952936642" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669962079363" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/0.25.1680.942@0.25.1680.942" timestamp="1670751167841" />
+    <state width="1387" height="552" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1669945226471" />
+    <state width="1387" height="552" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1669899568569" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/0.25.1680.967@0.25.1680.967" timestamp="1677689209409" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/1680.25.1366.743/0.25.1680.942/3046.25.1366.743@0.25.1680.942" timestamp="1670301264135" />
+    <state width="1350" height="552" key="GridCell.Tab.0.bottom/1680.25.1366.743/0.25.1680.945/3046.25.1366.743@0.25.1680.945" timestamp="1670457050937" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center" timestamp="1677689209235">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1387" height="552" key="GridCell.Tab.0.center/-1024.25.1024.688/0.25.1680.1025/1680.25.1366.743@0.25.1680.1025" timestamp="1669952010819" />
+    <state width="1387" height="552" key="GridCell.Tab.0.center/-1024.25.1024.743/0.25.1680.942/-2390.25.1366.743@0.25.1680.942" timestamp="1669952270209" />
+    <state width="1387" height="552" key="GridCell.Tab.0.center/-1024.25.1024.743/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669951740837" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1680.942/-3840.25.1920.1055@0.25.1680.942" timestamp="1669952936641" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669962079362" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/0.25.1680.942@0.25.1680.942" timestamp="1670751167839" />
+    <state width="1387" height="552" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1669945226471" />
+    <state width="1387" height="552" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1669899568568" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/0.25.1680.967@0.25.1680.967" timestamp="1677689209235" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/1680.25.1366.743/0.25.1680.942/3046.25.1366.743@0.25.1680.942" timestamp="1670301264133" />
+    <state width="1350" height="552" key="GridCell.Tab.0.center/1680.25.1366.743/0.25.1680.945/3046.25.1366.743@0.25.1680.945" timestamp="1670457050936" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left" timestamp="1677689209235">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1387" height="552" key="GridCell.Tab.0.left/-1024.25.1024.688/0.25.1680.1025/1680.25.1366.743@0.25.1680.1025" timestamp="1669952010818" />
+    <state width="1387" height="552" key="GridCell.Tab.0.left/-1024.25.1024.743/0.25.1680.942/-2390.25.1366.743@0.25.1680.942" timestamp="1669952270208" />
+    <state width="1387" height="552" key="GridCell.Tab.0.left/-1024.25.1024.743/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669951740836" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1680.942/-3840.25.1920.1055@0.25.1680.942" timestamp="1669952936640" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669962079361" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/0.25.1680.942@0.25.1680.942" timestamp="1670751167839" />
+    <state width="1387" height="552" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1669945226471" />
+    <state width="1387" height="552" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1669899568553" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/0.25.1680.967@0.25.1680.967" timestamp="1677689209235" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/1680.25.1366.743/0.25.1680.942/3046.25.1366.743@0.25.1680.942" timestamp="1670301264132" />
+    <state width="1350" height="552" key="GridCell.Tab.0.left/1680.25.1366.743/0.25.1680.945/3046.25.1366.743@0.25.1680.945" timestamp="1670457050935" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right" timestamp="1677689209408">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1387" height="552" key="GridCell.Tab.0.right/-1024.25.1024.688/0.25.1680.1025/1680.25.1366.743@0.25.1680.1025" timestamp="1669952010819" />
+    <state width="1387" height="552" key="GridCell.Tab.0.right/-1024.25.1024.743/0.25.1680.942/-2390.25.1366.743@0.25.1680.942" timestamp="1669952270209" />
+    <state width="1387" height="552" key="GridCell.Tab.0.right/-1024.25.1024.743/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669951740837" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1680.942/-3840.25.1920.1055@0.25.1680.942" timestamp="1669952936641" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/0.25.1680.942/1680.25.1366.743@0.25.1680.942" timestamp="1669962079362" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/0.25.1680.942@0.25.1680.942" timestamp="1670751167840" />
+    <state width="1387" height="552" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1669945226471" />
+    <state width="1387" height="552" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1669899568568" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/0.25.1680.967@0.25.1680.967" timestamp="1677689209408" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/1680.25.1366.743/0.25.1680.942/3046.25.1366.743@0.25.1680.942" timestamp="1670301264134" />
+    <state width="1350" height="552" key="GridCell.Tab.0.right/1680.25.1366.743/0.25.1680.945/3046.25.1366.743@0.25.1680.945" timestamp="1670457050937" />
+    <state x="495" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1677714480837">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="495" y="337" key="com.intellij.ide.util.TipDialog/-1302.25.1302.935/0.25.1680.967@0.25.1680.967" timestamp="1677162958213" />
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog/0.25.1680.942@0.25.1680.942" timestamp="1670301152945" />
+    <state x="495" y="330" key="com.intellij.ide.util.TipDialog/0.25.1680.945@0.25.1680.945" timestamp="1669949706311" />
+    <state x="495" y="337" key="com.intellij.ide.util.TipDialog/0.25.1680.967@0.25.1680.967" timestamp="1677714480837" />
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog/1680.25.1366.743/0.25.1680.942/3046.25.1366.743@0.25.1680.942" timestamp="1670211001147" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1669894469982">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.25.1680.947@0.25.1680.947" timestamp="1669894469982" />
+  </component>
+</project>
